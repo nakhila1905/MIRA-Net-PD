@@ -1,6 +1,6 @@
 # MIRA-Net: Modality-Invariant Residual Adversarial Network for Cross-Cohort Parkinson's Disease Detection
 
-Official implementation of **MIRA-Net**, a deep learning framework for cross-cohort representation learning using acoustic speech and beta-band MEG biomarkers for Parkinson's disease detection.
+Official implementation of **MIRA-Net**, a framework for cross-cohort representation learning using acoustic speech and beta-band MEG biomarkers for Parkinson's disease detection.
 
 ---
 
