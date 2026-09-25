@@ -21,20 +21,8 @@ The framework integrates:
 
 ## Repository Contents
 
-- Acoustic feature analysis (all acoustic features)
-- RF-SHAP feature selection for acoustic biomarkers
-- MEG data preprocessing and beta-band feature extraction
-- MEG feature analysis (all extracted features)
-- Participant-wise MEG feature analysis
-- Channel-wise MEG feature analysis
-- RF-SHAP feature selection for channel-wise MEG biomarkers
-- Cross-cohort dataset construction
-- MIRA-Net architecture and training
-- Rest, Go, and Passive task-specific implementations
-- Classification and evaluation scripts
-- Correlation analysis (Acoustic, MEG, and Cross-model)
-- AUC boxplot analysis
-- MIRA-Net architecture figures
+- Codes
+- Figures
 
 ---
 
