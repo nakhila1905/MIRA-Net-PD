@@ -36,7 +36,6 @@ This work uses publicly available datasets:
 - Parkinson's Telemonitoring Dataset (2009)
 - NatMEG-PD Dataset v1.1
 
-**Note:** The datasets are not included in this repository and should be obtained from their respective official sources.
 
 ---
 
